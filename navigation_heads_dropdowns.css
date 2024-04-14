@@ -1,0 +1,58 @@
+.containers {
+    top: 78px;
+    left: 135px;
+    box-shadow: rgba(0, 0, 0, 0.413) 0px 60px 40px -7px;
+    background-color: #fff;
+}
+
+.container3 div span a {
+    color: #ff3f6c;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 35px 13px 0;
+}
+.container4 div span a {
+    color: #fb56c1;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 35px 13px 0;
+}
+.container5 div span a {
+    color: #f26a10;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 35px 13px 0;
+}
+.container6 div span a {
+    color: #f2c210;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 35px 13px 0;
+}
+.container7 div span a {
+    color: #0db7af;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 35px 13px 0;
+}
+
+.containera{
+    background-color: #ffff;
+    padding: 10px 40px 50px 23px;
+}
+
+.containerb{
+    background-color: rgba(245,245,246,.4);
+    padding: 10px 10px 50px 23px;
+}
+
+.containera a, .containerb a {
+    display: block;
+    color: rgb(24, 24, 24);
+    font-size: 14px;
+    padding: 3px;
+}
+
+.containera a:hover, .containerb a:hover {
+    font-weight: bold;
+}

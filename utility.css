@@ -1,0 +1,44 @@
+body {
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.bold, .user-utility-tabs span {
+    font-weight: bold;
+}
+
+.display-none {
+    display: none;
+}
+
+.width-100per {
+    width: 100%;
+}
+
+.pointer-cursor {
+    cursor: pointer;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.text-transform-capitalize {
+    text-transform: capitalize;
+}

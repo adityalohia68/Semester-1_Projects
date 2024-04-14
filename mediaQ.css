@@ -1,0 +1,105 @@
+@media (max-width: 400px) {
+    .logo img {
+        height: 35px;
+        margin: 4px 0 17px 10px;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .navigation-heads {
+        width: 100%;
+        font-size: 9px;
+        margin: 10px 5px;
+        justify-content: center;
+        margin: auto;
+        position: relative;
+        top: 3px;
+    }
+
+    .animators-height {
+        top: 3px;
+    }
+
+    .box1:focus .men-head-animator {
+        display: block;
+    }
+
+    .box2:focus .women-head-animator {
+        display: block;
+    }
+
+    .box3:focus .kids-head-animator {
+        display: block;
+    }
+
+    .box4:focus .HnL-head-animator {
+        display: block;
+    }
+
+    .box5:focus .beauty-head-animator {
+        display: block;
+    }
+
+    .box6:focus .studio-head-animator {
+        display: block;
+    }
+
+    .website-searching-tool {
+        justify-content: center;
+        position: absolute;
+        top: 13px;
+        left: 16vw;
+    }
+
+    .text {
+        padding: 0 10px 28px 10px;
+    }
+
+    .search-bar input {
+        height: 5px;
+        width: 130px;
+    }
+
+    .search-icon {
+        width: 19px;
+    }
+
+    ::placeholder {
+        font-size: 10px;
+    }
+
+    .user-utility-tabs {
+        position: absolute;
+        top: 0px;
+        left: 64vw;
+    }
+
+    .boxes2 span {
+        font-size: 8px;
+    }
+
+    .boxes2 img {
+        height: 14px;
+    }
+
+    /* footer */
+
+    footer {
+        background-color: #e8e9eb;
+    }
+
+    footer .container1 {
+        flex-direction: column;
+    }
+
+    .column1,
+    .column2,
+    .column3,
+    .column4 {
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 1400px) {}

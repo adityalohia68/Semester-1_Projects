@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+nav {
+    background-color: white;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .05);
+}
+
+.navigation-heads a {
+    text-decoration: none;
+}
+
+.navigation-heads {
+    background-color: #fff;
+    height: 50px;
+    align-self: flex-end;
+}
+
+.text {
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    padding: 0 20px 33px 20px;
+}
+
+.logo img {
+    height: 52px;
+    margin: 11px 0vw 11px 1.7vw;
+}
+
+
+.animators-height {
+    height: 3.5px;
+    top: 76px;
+}
+    
+.box1:hover .men-head-animator, .box1:hover .men-drops {
+    display: block;
+}
+
+.box2:hover .women-head-animator, .box2:hover .women-drops {
+    display: block;
+}
+
+.box3:hover .kids-head-animator, .box3:hover .kids-drops {
+    display: block;
+}
+
+.box4:hover .HnL-head-animator, .box4:hover .HnL-drops {
+    display: block;
+}
+
+.box5:hover .beauty-head-animator, .box5:hover .beauty-drops {
+    display: block;
+}
+
+.box6:hover .studio-head-animato, .box6:hover .studio-drops {
+    display: block;
+}
+
+.search-bar-bg {
+    background-color: #f5f5f6;
+    border-radius: 2px;
+    border: .5px solid gainsboro;
+}
+
+.search-bar input {
+    outline: 0 none;
+    border: none;
+    height: 18px;
+    width: 30vw;
+    padding: 8px 10px 10px;
+    background-color: transparent;
+}
+
+.search-icon {
+    background-color: transparent;
+    border-radius: 2px 0 0 2px;
+    justify-content: center;
+    width: 40px;
+}
+
+.search-icon img {
+    height: 18px;
+    opacity: 50%;
+    background-color: transparent;
+}
+
+.search-bar input:focus {
+    background-color: white;
+}
+
+.user-utility-tabs span {
+    font-size: 11px;
+    position: relative;
+    top: 3px;
+}
+
+.boxes2 img {
+    height: 19px;
+}
+
+.boxes2 {
+    padding: 13px;
+    flex-direction: column;
+}
+
+.profile-tab-animator {
+    background-color: #ff3f6c;
+    width: 57px;
+    top: 76px;
+}
+
+.box8:hover .profile-tab-animator {
+    display: block;
+}
+
+.section1 img {
+    margin: 35px 0 10px 0;
+    height: 100%;
+    width: 91vw;
+}
